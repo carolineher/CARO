@@ -1,1 +1,3 @@
 # CARO
+
+PRINT("HELLO")
