@@ -2,4 +2,3 @@
 
 PRINT("HELLO")
 x=0
-i=1
